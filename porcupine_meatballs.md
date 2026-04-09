@@ -3,7 +3,7 @@
 ## Ingredients
 
 ### Meatballs
-| Ingredient | Amount |
+| Ingredients | Amount |
 | --- | --- |
 | Ground Beef | 2 pounds |
 | Instant Rice | 1 cup |
